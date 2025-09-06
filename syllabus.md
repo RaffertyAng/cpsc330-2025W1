@@ -16,7 +16,7 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 **Lectures**:
 
-| Section      | Day     | Time                | Location              |
+| Section      | Day     | Time                | Zoom                  |
 |--------------|---------|---------------------|-----------------------|
 | CPSC 330 101 | Tue/Thu | 15:30 - 16:50       | DMP 310 |
 | CPSC 330 102 | Tue/Thu | 11:00 - 12:20       | DMP 310 |
@@ -38,9 +38,16 @@ Application of machine learning tools, with an emphasis on solving practical pro
 | CPSC 330 T1K | Fri      | 11:00 - 12:00       | MCLD 3008              |
 | CPSC 330 T1L | Thu      | 09:00 - 10:00       | CEME 1215              |
 
+**Office Hours**
+
 Tutorials for this course will be conducted by TAs and follow an office hours format. Attendance at tutorials is optional. However, participating will allow you to engage in more personalized discussions with TAs, providing you with valuable one-on-one time and an opportunity to deepen your understanding of machine learning concepts. 
 
 For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?https://github.com/UBC-CS/cpsc330/blob/master/docs/calendar.html). 
+
+| TA             | Day      | Time             | Location               |
+|----------------|----------|------------------|------------------------|
+| Allya Wellyanto| Monday   | 14:00-15:00      |                        |
+| Joseph Soo     | Monday   | 15:00-16:00      | https://ubc.zoom.us/j/67357893390?pwd=qf1nwMVNnxhSVE6s4TZJeOmh8L48BU.1| 
 
 ## Teaching Team
 
