@@ -46,15 +46,15 @@ For office hours, please refer to the [Calendar](https://htmlpreview.github.io/?
 
 | TA             | Day      | Time             | Location               |
 |----------------|----------|------------------|------------------------|
-| Allya Wellyanto| Monday   | 14:00-15:00      |                        |
-| Joseph Soo     | Monday   | 15:00-16:00      | https://ubc.zoom.us/j/67357893390?pwd=qf1nwMVNnxhSVE6s4TZJeOmh8L48BU.1| 
+| Allya Wellyanto| Monday   | 14:00-15:00      | https://ubc.zoom.us/j/66419319451?pwd=88PknFhwGSxmWG6FlWxSukREbnQygU.1|
+| Joseph Soo     | Monday   | 16:00-17:00      | https://ubc.zoom.us/j/67357893390?pwd=qf1nwMVNnxhSVE6s4TZJeOmh8L48BU.1| 
 
 ## Teaching Team
 
 **Instructors**: 
 
 - [Giulia Toti](https://www.gtoti.com/), OH: Wednesdays, 4:00 - 5:00 pm @ ICCS 231
-- [Varada Kolhatkar](https://kvarada.github.io/), OH: Tuesdays, 12:30 pm @ ICCS 237
+- [Varada Kolhatkar](https://kvarada.github.io/), OH: Wednesdays, 11:30 am @ ICCS 237
 
 ### Course co-ordinator
 - Anca Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. 
